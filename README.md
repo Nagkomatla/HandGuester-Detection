@@ -1,4 +1,7 @@
-✋ Hand Gesture Recognition using OpenCV and Python
+<h1 align="center">✋ Hand Gesture Recognition using OpenCV and Python</h1>
+
+## 👁️ Real-time finger counting using computer vision
+
 This project implements a real-time hand gesture recognition system using computer vision techniques. It detects the number of fingers shown to a webcam and displays the count dynamically on the screen.
 
 🔍 Features
