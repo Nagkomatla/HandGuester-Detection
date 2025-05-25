@@ -17,9 +17,6 @@ Circular ROI for detecting finger tips
 
 Live feedback with OpenCV overlays
 
-![Hand Detection Demo](Demo1.png)
-
-![Hand Detection Demo](Demo2.png)
 
 
 🧠 Tech Stack
