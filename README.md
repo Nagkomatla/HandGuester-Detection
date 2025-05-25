@@ -51,10 +51,10 @@ Smart home or IoT control systems
 AR/VR hand interaction modules
 
 
-
-▶️ Run It
+# ▶️ Run It
 pip install opencv-python numpy scikit-learn
 python hand_gesture_recognition.py
+
 
 
 
